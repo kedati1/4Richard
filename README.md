@@ -1,6 +1,5 @@
 To Use: 
-
-Download
-Unzip
-Open
-Run DOOM executable
+1) Download
+2) Unzip
+3) Open
+4) Run DOOM executable
